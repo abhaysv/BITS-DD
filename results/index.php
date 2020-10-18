@@ -1,30 +1,32 @@
-<head> <link rel="stylesheet" type="text/css" href="style.css"> <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-<title>Online Result Management</title></head>
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>BITS Pilani Hyderbad Campus - Digital Design Results</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
 <body>
-	<center>
-		<div class="txt">ENTRANCE RESULT FALL 2019 </div>
-		<div class="content">
-			<div class="content2" style="height: 45%">
-				<div class="max">ENTER YOUR ROLL NO</div>
-      <!-- ADDDING FORM-->
-      	<form action="result.php" method="post"><br>
-      		<input type="text" name="roll" placeholder="Roll Number" required><br/><br><br>
-          <center><font size="3" color="green">Select your Session</font></center>
-      		
-      		<select id="class" name="class">
-    <option value="6">Six</option>
-    <option value="2019">2019</option>
-    <option value="7">Seven</option>
-    <option value="8">Eight</option>
-    <option value="9">Nine</option>
-    <option value="10">Ten</option></select>
-<br/><br><br>
-
-    <input type="submit" name="" value="Submit">
-   </form>
-
-
-
-
-
-			</div></div></center></body>
+<!-- partial:index.partial.html -->
+<div class="container">  
+  <form id="contact" action="result.php" method="post">
+    <h3>Digital Desrign Results</h3>
+    <h4>Please fill in your particulars below<br>Example <b>ID : 41120170300 Name : Sanjay</b> </h4>
+    <fieldset>
+      <input placeholder="Enter your ID no" name="IdNo" type="text" tabindex="1" required autofocus>
+    </fieldset>
+    <fieldset>
+      <input placeholder="Enter your name" name="Name" type="text" tabindex="2" required>
+    </fieldset>
+    <fieldset>
+      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+    </fieldset>
+    <p class="copyright"><b>Designed by <a href="https://abhaysv.co.in" target="_blank" title="Abhay Vidhyadharan">Abhay Vidhyadharan</a> &
+    <a href="https://sanjayvidhyadharan.in" target="_blank" title="Sanjay Vidhyadharan">Sanjay Vidhyadharan</a></b>
+    </p>
+  </form>
+</div>
+<!-- partial -->
+  
+</body>
+</html>
