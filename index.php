@@ -33,12 +33,12 @@
 
             <ul class="navbar-item theme-brand flex-row  text-center">
                 <li class="nav-item theme-logo">
-                    <a href="index.html">
+                    <a href="index.php">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-cpu"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
                     </a>
                 </li>
                 <li class="nav-item theme-text">
-                    <a href="index.html" class="nav-link"> DIGITAL DESIGN CLASS DASHBOARD </a>
+                    <a href="index.php" class="nav-link"> DIGITAL DESIGN CLASS DASHBOARD </a>
                 </li>
             </ul>
 
@@ -86,7 +86,7 @@
                 <ul class="list-unstyled menu-categories" id="accordionExample">
 				
 					<li class="menu">
-                        <a href="index.html" aria-expanded="false" class="dropdown-toggle">
+                        <a href="index.php" aria-expanded="false" class="dropdown-toggle">
                             <div class="">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
                                 <span>Dashboard</span>
@@ -94,7 +94,7 @@
                         </a>
                     </li>
                     <li class="menu">
-                        <a href="/results/" aria-expanded="false" class="dropdown-toggle">
+                        <a href="https://sanjayvidhyadharan.in/Digital_Design/results/" aria-expanded="false" class="dropdown-toggle">
                             <div class="">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-target"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle></svg>
                                 <span>Check Results</span>
@@ -251,25 +251,25 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td><div class="td-content customer-name"><img src="assets/img/90x90.jpg" alt="avatar">DHRITI MADAN</div></td>
+                                                <td><div class="td-content customer-name"><img src="assets/img/profile-photos/9.png" alt="avatar">DHRITI MADAN</div></td>
                                                 <td><div class="td-content product-brand">41120180474</div></td>
                                          
                                                 <td><div class="td-content"><span class="badge outline-badge-primary">84/84</span></div></td>
                                             </tr>
                                             <tr>
-                                                <td><div class="td-content customer-name"><img src="assets/img/90x90.jpg" alt="avatar">AKSHAT GOYAL</div></td>
+                                                <td><div class="td-content customer-name"><img src="assets/img/profile-photos/1.png" alt="avatar">AKSHAT GOYAL</div></td>
                                                 <td><div class="td-content product-brand">41120180864</div></td>
                                        
                                                 <td><div class="td-content"><span class="badge outline-badge-success">84/84</span></div></td>
                                             </tr>
                                             <tr>
-                                                <td><div class="td-content customer-name"><img src="assets/img/90x90.jpg" alt="avatar">SIMHADRI SURYA KIRAN</div></td>
+                                                <td><div class="td-content customer-name"><img src="assets/img/profile-photos/2.png" alt="avatar">SIMHADRI SURYA KIRAN</div></td>
                                                 <td><div class="td-content product-brand">41120190014</div></td>
                                                
                                                 <td><div class="td-content"><span class="badge outline-badge-danger">84/84</span></div></td>
                                             </tr>
                                             <tr>
-                                                <td><div class="td-content customer-name"><img src="assets/img/90x90.jpg" alt="avatar">KSHITIJ SHAILESH</div></td>
+                                                <td><div class="td-content customer-name"><img src="assets/img/profile-photos/4.png" alt="avatar">KSHITIJ SHAILESH</div></td>
                                                 <td><div class="td-content product-brand">41120190105</div></td>
                                         
                                                 <td><div class="td-content"><span class="badge outline-badge-success">84/84</span></div></td>
@@ -286,7 +286,7 @@
                         <div class="widget widget-table-two">
 
                             <div class="widget-heading">
-                                <h5 class="">Topper Students</h5>
+                                <h5 class="">Mid-Sem Topper Students</h5>
                             </div>
 
                             <div class="widget-content">
@@ -302,25 +302,25 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td><div class="td-content customer-name"><img src="assets/img/90x90.jpg" alt="avatar">ETHIRAJA SAMPATH</div></td>
+                                                <td><div class="td-content customer-name"><img src="assets/img/profile-photos/3.png" alt="avatar">ETHIRAJA SAMPATH</div></td>
                                                 <td><div class="td-content product-brand">41120190194</div></td>
                                          
                                                 <td><div class="td-content"><span class="badge outline-badge-primary">84/84</span></div></td>
                                             </tr>
                                             <tr>
-                                                <td><div class="td-content customer-name"><img src="assets/img/90x90.jpg" alt="avatar">ASIM ABDUL BARI</div></td>
-                                                <td><div class="td-content product-brand">41120180864</div></td>
+                                                <td><div class="td-content customer-name"><img src="assets/img/profile-photos/2.png" alt="avatar">ASIM ABDUL BARI</div></td>
+                                                <td><div class="td-content product-brand">41120190215</div></td>
                                        
                                                 <td><div class="td-content"><span class="badge outline-badge-success">84/84</span></div></td>
                                             </tr>
                                             <tr>
-                                                <td><div class="td-content customer-name"><img src="assets/img/90x90.jpg" alt="avatar">GITA KRISHNA</div></td>
-                                                <td><div class="td-content product-brand">41120190215</div></td>
+                                                <td><div class="td-content customer-name"><img src="assets/img/profile-photos/8.png" alt="avatar">GITA KRISHNA</div></td>
+                                                <td><div class="td-content product-brand">41120190314</div></td>
                                                
                                                 <td><div class="td-content"><span class="badge outline-badge-danger">84/84</span></div></td>
                                             </tr>
                                             <tr>
-                                                <td><div class="td-content customer-name"><img src="assets/img/90x90.jpg" alt="avatar">PRANAV NAIR</div></td>
+                                                <td><div class="td-content customer-name"><img src="assets/img/profile-photos/5.png" alt="avatar">PRANAV NAIR</div></td>
                                                 <td><div class="td-content product-brand">41120190473</div></td>
                                         
                                                 <td><div class="td-content"><span class="badge outline-badge-success">84/84</span></div></td>
