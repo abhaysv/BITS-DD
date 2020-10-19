@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>BITS Pilani Hyderbad Campus - Digital Design Results</title>
-  <link rel="stylesheet" href="./style_v3.css">
+  <link rel="stylesheet" href="./style_v1.css">
 
 </head>
 <body>
@@ -27,25 +27,6 @@
   </form>
 </div>
 <!-- partial -->
-<div class="wrapper">
-
-	
-	<ul class="bg-bubbles">
-		<li><img src="gates/1.png"></li>
-		<li><img src="gates/2.png"></li>
-		<li><img src="gates/11.png"></li>
-		<li><img src="gates/4.png"></li>
-		<li><img src="gates/5.png"></li>
-		<li><img src="gates/6.png"></li>
-		<li><img src="gates/12.png"></li>
-		<li><img src="gates/13.png"></li>
-		<li><img src="gates/9.png"></li>
-		<li><img src="gates/10.png"></li>
-	</ul>
-</div>
-<!-- partial -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script.js"></script>
-
   
 </body>
 </html>
